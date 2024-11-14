@@ -14,16 +14,13 @@ This Power BI project focuses on *Blinkit*, a leading online grocery delivery pl
 4. *Average Rating* – Customer ratings for items sold.
 
 #### Data Analytics Process:
-1. *Requirement Gathering* – Understanding Blinkit’s business needs.
-2. *Data Walk-through* – Initial exploration of the dataset.
-3. *Data Connection* – Establishing connection with Blinkit’s data sources.
-4. *Data Cleaning and Quality Check* – Ensuring data accuracy and completeness.
-5. *Data Modeling* – Structuring data relationships.
-6. *Data Processing* – Preparing data for analysis.
-7. *DAX Calculations* – Creating measures and calculated fields for in-depth analysis.
-8. *Dashboard Layout and Chart Development* – Designing the visual dashboard and formatting.
-9. *Report Development* – Building the final report.
-10. *Insight Generation* – Highlighting key findings and opportunities.
+1. *Data Cleaning and Quality Check* – Ensured data accuracy and completeness.
+2. *Data Modeling* – Structured data relationships.
+3. *Data Processing* – Prepared data for analysis.
+4. *DAX Calculations* – Created measures and calculated fields for in-depth analysis.
+5. *Dashboard Layout and Chart Development* – Designed the visual dashboard and format.
+6. *Report Development* – Built the final report.
+7. *Insight Generation* – Highlighted key findings and opportunities.
 
 #### Visualizations and Insights:
 - *Total Sales by Fat Content (Donut Chart):* Analyzes how fat content affects sales and other KPIs like average sales, number of items, and average rating.
@@ -63,7 +60,13 @@ This Power BI project focuses on *Blinkit*, a leading online grocery delivery pl
 
 
 #### Key Insights:
-This dashboard empowers Blinkit to:
+This Interactive dashboard empowers Blinkit to:
+
+
+https://github.com/user-attachments/assets/fef7047f-703a-4516-ae92-f746ae9b0788
+
+
+
 - Optimize inventory and sales strategies by understanding how item types, fat content, and outlet characteristics affect sales.
 - Identify top-performing outlets and item types.
 - Improve customer satisfaction by analyzing ratings and sales performance across outlets.

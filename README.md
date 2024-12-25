@@ -9,7 +9,7 @@ This Power BI project focuses on *Blinkit*, a leading online grocery delivery pl
 - Analyze customer ratings to measure satisfaction.
 - Examine inventory distribution patterns for efficiency.
 
-### Key Metrics and Tools
+### Key Metrics
 
 - Total Sales
 - Average Sales
@@ -37,11 +37,10 @@ This interactive Power BI dashboard showcase sales performance, customer satisfa
 
 
 - Sales Performance:
-Total sales revenue: $3.5M in Q1 2023.
-September recorded the highest average monthly sales.
+  The total sales revenue amounted to $1.20 million, with fruits and vegetables leading as the highest-Item type at $178,124, while seafood recorded the lowest sales at $9,077. A total of 8523 items were sold across all categories, with an average sales of $141 per item
 
 - Customer Satisfaction:
-An average rating of 4.7 indicates high satisfaction.
+An average rating of 3.9 indicates high satisfaction.
 
 - Inventory Efficiency:
 Stock-outs were frequent in smaller outlets during peak sales.
@@ -55,4 +54,4 @@ Stock-outs were frequent in smaller outlets during peak sales.
 - Implement real-time inventory tracking to reduce stock-outs.
 - Gather demographic data to better understand customer preferences and target markets.
 
-Thank you for reviewing this project. I welcome your feedback and suggestions to improve this analysis. Feel free to connect with me on LinkedIn or via email.
+Thank you for reviewing this project. I welcome your feedback and suggestions to improve this analysis. 
